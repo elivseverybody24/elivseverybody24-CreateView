@@ -40,7 +40,7 @@ import java.sql.Statement;
  *
  *
  * So the syntax for creating the 'steve table' table above would be:
- * CREATE VIEW stevesview AS SELECT * FROM site_user WHERE firstname = 'Steve';
+ *  
  *
  *
  * This is beneficial because we can now execute SQL queries on this view instead of the entire table.
